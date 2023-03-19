@@ -12,7 +12,10 @@ Utilizes the OpenAI API and the DALL-E model to generate original images based o
 
 Alternatively you can download the code as a .zip file and extract it.
 
-npm install
+Install npm Package
+
+`npm install
+`
 
 
 To start a development enviroment use the following command.
