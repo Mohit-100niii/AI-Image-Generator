@@ -10,7 +10,7 @@ Leveraged the Hugging Face API, to generate high-quality and diverse images base
 ![Screenshot-2023-10-11-125320.png](https://i.postimg.cc/XYJfhwnK/Screenshot-2023-10-11-125320.png)
 
 ## Technologies Used
-- React
+- React.Js
 - Taiwind CSS
 - Hugging Face Api
 - FireBase - for Backend
