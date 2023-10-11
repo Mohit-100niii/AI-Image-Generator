@@ -7,7 +7,7 @@ Leveraged the Hugging Face API, to generate high-quality and diverse images base
 #### View Demo: https://pictogenius-99cf73.netlify.app/
 
 ## ScreenShots
-[![Screenshot-2023-10-11-125320.png](https://i.postimg.cc/XYJfhwnK/Screenshot-2023-10-11-125320.png)](https://postimg.cc/ZCGvvvB0)
+![Screenshot-2023-10-11-125320.png](https://i.postimg.cc/XYJfhwnK/Screenshot-2023-10-11-125320.png)(https://postimg.cc/ZCGvvvB0)
 
 ## Technologies Used
 - React
